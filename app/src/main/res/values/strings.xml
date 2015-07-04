@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_artist_field_title">Search</string>
+    <string name="artist_search_hint">Artist</string>
+    <string name="no_results_found">No results found</string>
+    <string name="title_activity_top_tracks">Top Tracks</string>
+    <string name="pref_country_key" translatable="false">country_key</string>
+    <string name="pref_Country_summary">Make a selection</string>
+    <string name="pref_Country_label">Country</string>
+    <string name="pref_country_default" translatable="false">US</string>
+    <string name="pref_key_last_artist_query">last_artist_query</string>
+</resources>
